@@ -1,6 +1,6 @@
 # Next.js Learning Roadmap 👩‍💻🚀
 
-This roadmap is designed to take you from a Next.js beginner to an advanced level. It outlines the key concepts and topics you should grasp to become proficient in Next.js development. Follow this roadmap step by step, practice, and build projects to reinforce your learning. 📚💪
+This roadmap is designed by [Abubakar Shaikh](https://github.com/abubakar-shaikh-dev) to take you from a Next.js beginner to an advanced level. It outlines the key concepts and topics you should grasp to become proficient in Next.js development. Follow this roadmap step by step, practice, and build projects to reinforce your learning. 📚💪
 
 ## Table of Contents
 1. [Basics](#basics)
@@ -114,6 +114,11 @@ This roadmap is designed to take you from a Next.js beginner to an advanced leve
 
 ---
 
-Remember, the key to mastering Next.js is practice and building real projects. Start with the basic projects, gradually move to intermediate ones, and challenge yourself with advanced projects as you gain confidence.
+Remember, the key to mastering Next.js is practice and building real projects. Start with the basic projects, gradually move to intermediate ones, and challenge yourself with advanced projects as you gain confidence. Happy coding! 😊🚀
 
-Happy coding! 😊🚀
+---
+
+📝 **Credits**
+- **Author**: Abubakar Shaikh
+- **Email**: shaikhabubakar2380@gmail.com
+- **GitHub**: [abubakar-shaikh-dev](https://github.com/abubakar-shaikh-dev)

@@ -10,7 +10,7 @@ This roadmap is designed to take you from a Node.js beginner to an advanced leve
 5. [HTTP and Express.js](#http-and-expressjs)
 6. [RESTful APIs](#restful-apis)
 7. [Database Integration](#database-integration)
-8. [Authentication and Authorization](#authentication-and-authorization)
+8. [Authentication and Authorization](#authentication-and-authorization-)
 9. [Middleware](#middleware)
 10. [Error Handling](#error-handling)
 11. [Testing](#testing)

@@ -1,4 +1,4 @@
-# Programming and Development Learning Roadmap 🚀🌐
+# Programming & Development Learning Roadmap 🚀🌐
 
 This repository contains learning roadmaps and mini project challenges for various programming languages and web development frameworks. Each `.md` file in this repository corresponds to a specific language or framework, and it provides a step-by-step guide to progress from a beginner level to an advanced level.
 

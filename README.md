@@ -37,12 +37,6 @@ This repository contains learning roadmaps and mini project challenges for vario
 
 Each `.md` file contains a roadmap of topics you need to learn, mini project task challenges to apply what you've learned, and credits for the author who created the roadmap.
 
-## Contribution
-If you find any issues, errors, or have suggestions for improvement in any of the learning roadmaps, feel free to open an issue or submit a pull request. Additionally, if you want to contribute a new language or framework learning roadmap, you are more than welcome to do so!
-
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 📝 **Credits**

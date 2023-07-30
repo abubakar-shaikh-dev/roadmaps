@@ -1,42 +1,51 @@
-# Full Stack Developer Roadmap 🚀🌐
+# Programming and Development Learning Roadmap 🚀🌐
 
-This repository contains a collection of learning roadmaps and mini project task challenges for various technologies and programming languages. Each `md` file provides a step-by-step guide to take you from a beginner to an advanced level in that specific technology. Follow the roadmaps, complete the mini projects, and reinforce your learning through hands-on practice. 📚💻
+This repository contains learning roadmaps and mini project challenges for various programming languages and web development frameworks. Each `.md` file in this repository corresponds to a specific language or framework, and it provides a step-by-step guide to progress from a beginner level to an advanced level.
 
 ## Table of Contents
-1. [React.js Roadmap](./react.md)
-2. [Next.js Roadmap](./nextjs.md)
-3. [Dart Roadmap](./dart.md)
-4. [Flutter Roadmap](./flutter.md)
-5. [Node.js Roadmap](./nodejs.md)
-6. [C Language Roadmap](./c.md)
-7. [C++ Roadmap](./cpp.md)
-8. [C# Roadmap](./csharp.md)
-9. [PHP Roadmap](./php.md)
-10. [Laravel Roadmap](./laravel.md)
-11. [TypeScript Roadmap](./typescript.md)
-12. [MySQL Roadmap](./mysql.md)
-13. [MongoDB Roadmap](./mongodb.md)
-14. [Python Roadmap](./python.md)
-15. [Django Roadmap](./django.md)
-16. [Java Roadmap](./java.md)
-17. [Rust Roadmap](./rust.md)
-18. [React Native Roadmap](./react-native.md)
-19. [Dart Roadmap](./dart.md)
-20. [PostgreSQL Roadmap](./postgresql.md)
+1. [Angular Learning Roadmap](angular.md)
+2. [C# (C Sharp) Learning Roadmap](c#.md)
+3. [C++ Learning Roadmap](c++.md)
+4. [C Language Learning Roadmap](c.md)
+5. [CSS Learning Roadmap](css.md)
+6. [Dart Learning Roadmap](dart.md)
+7. [Django Learning Roadmap](django.md)
+8. [Flutter Learning Roadmap](flutter.md)
+9. [Go Learning Roadmap](go.md)
+10. [HTML Learning Roadmap](html.md)
+11. [Java Learning Roadmap](java.md)
+12. [JavaScript Learning Roadmap](javascript.md)
+13. [Kotlin Learning Roadmap](kotlin.md)
+14. [Laravel Learning Roadmap](laravel.md)
+15. [MongoDB Learning Roadmap](mongodb.md)
+16. [MySQL Learning Roadmap](mysql.md)
+17. [Next.js Learning Roadmap](nextjs.md)
+18. [Node.js Learning Roadmap](nodejs.md)
+19. [PHP Learning Roadmap](php.md)
+20. [PostgreSQL Learning Roadmap](postgresql.md)
+21. [Python Learning Roadmap](python.md)
+22. [React Native Learning Roadmap](react-native.md)
+23. [React Learning Roadmap](react.md)
+24. [Redis Learning Roadmap](redis.md)
+25. [Ruby on Rails Learning Roadmap](ruby-on-rails.md)
+26. [Ruby Learning Roadmap](ruby.md)
+27. [Rust Learning Roadmap](rust.md)
+28. [Swift Learning Roadmap](swift.md)
+29. [Tailwind CSS Learning Roadmap](tailwindcss.md)
+30. [TypeScript Learning Roadmap](typescript.md)
+31. [Vue.js Learning Roadmap](vue.md)
 
-## How to Use
-- Clone this repository to your local machine.
-- Explore each `md` file to find the learning roadmap and mini project tasks for a specific technology.
-- Follow the steps outlined in the roadmaps and complete the mini projects to reinforce your learning.
-- As you progress through the roadmaps, you'll gain proficiency in various technologies and programming languages.
+Each `.md` file contains a roadmap of topics you need to learn, mini project task challenges to apply what you've learned, and credits for the author who created the roadmap.
 
-## Contributions
-If you find any issues, have suggestions, or want to add a new technology roadmap, feel free to contribute! You can create a pull request, and we'll be happy to review it.
+## Contribution
+If you find any issues, errors, or have suggestions for improvement in any of the learning roadmaps, feel free to open an issue or submit a pull request. Additionally, if you want to contribute a new language or framework learning roadmap, you are more than welcome to do so!
 
-## About the Author
-Hi, I'm Abubakar Shaikh! I'm a Full Stack Developer passionate about exploring and building web and mobile applications. If you have any questions or want to connect, you can reach me via email or find me on GitHub.
+## License
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+---
+
+📝 **Credits**
+- **Author**: Abubakar Shaikh
 - **Email**: shaikhabubakar2380@gmail.com
 - **GitHub**: [abubakar-shaikh-dev](https://github.com/abubakar-shaikh-dev)
-
-## Happy Learning! 🎉🌟

@@ -114,4 +114,6 @@ This roadmap is designed to take you from a Next.js beginner to an advanced leve
 
 ---
 
-Remember, the key to mastering Next.js is practice and building real projects. Start with the basic projects, gradually move to intermediate ones, and challenge yourself with advanced projects as you gain confidence. Happy coding! 😊🚀
+Remember, the key to mastering Next.js is practice and building real projects. Start with the basic projects, gradually move to intermediate ones, and challenge yourself with advanced projects as you gain confidence.
+
+Happy coding! 😊🚀

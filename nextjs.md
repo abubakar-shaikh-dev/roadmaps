@@ -25,6 +25,8 @@ This roadmap is designed to take you from a Next.js beginner to an advanced leve
 - Dynamic routing with `[slug].js` and `[id].js`
 - CSS-in-JS with styled-components or other libraries
 
+**Mini Project Task Challenge**: Create a simple static website with multiple pages using Next.js. Implement a navigation bar to move between pages. Use CSS-in-JS for styling.
+
 ## Advanced Routing and Navigation
 
 - Nested routing with nested folders and `useRouter`
@@ -33,21 +35,29 @@ This roadmap is designed to take you from a Next.js beginner to an advanced leve
 - URL parameters and query strings
 - Client-side navigation with `next/link`
 
+**Mini Project Task Challenge**: Build a blog website with multiple nested categories and posts. Implement custom 404 pages for invalid URLs. Use dynamic routing for each blog post page.
+
 ## Data Fetching and APIs
 
 - Fetching data from external APIs
 - Handling data with `getServerSideProps`, `getStaticProps`, and `getStaticPaths`
 - Handling API routes with `pages/api`
 
+**Mini Project Task Challenge**: Create a "Bookstore" app that fetches book data from an external API and displays it. Implement server-side rendering to show book details on individual pages.
+
 ## State Management
 
 - Using React's built-in state management
 - Introducing Redux, MobX, or Recoil for more complex applications
 
+**Mini Project Task Challenge**: Develop a "Todo List" application using Next.js. Implement state management to add, edit, and delete tasks.
+
 ## Authentication and Authorization
 
 - Implementing user authentication in Next.js
 - Handling private routes and access control
+
+**Mini Project Task Challenge**: Build a "Login and Registration" system. Create private routes that require authentication to access certain pages.
 
 ## Optimizations
 
@@ -56,20 +66,28 @@ This roadmap is designed to take you from a Next.js beginner to an advanced leve
 - Code splitting and dynamic imports
 - Caching and data revalidation
 
+**Mini Project Task Challenge**: Optimize a large image-heavy website for performance. Use `next/image` and implement code splitting to load resources only when needed.
+
 ## Internationalization (i18n)
 
 - Implementing multi-language support
 - Handling content translation
+
+**Mini Project Task Challenge**: Develop a "Language Switcher" component that allows users to switch between different languages on the website.
 
 ## Deployment
 
 - Deploying Next.js applications to Vercel, Netlify, or other platforms
 - Server deployment vs. static site deployment
 
+**Mini Project Task Challenge**: Deploy one of your previous projects to a hosting platform like Vercel or Netlify.
+
 ## Testing
 
 - Writing unit tests with Jest and React Testing Library
 - Integration testing with Cypress
+
+**Mini Project Task Challenge**: Write unit tests for a simple React component in one of your previous projects.
 
 ## Advanced Concepts
 
@@ -78,27 +96,21 @@ This roadmap is designed to take you from a Next.js beginner to an advanced leve
 - WebSockets integration
 - GraphQL integration with Apollo or Relay
 
+**Mini Project Task Challenge**: Implement a real-time chat feature using WebSockets in your existing project.
+
 ## Real-world Projects
 
 1. **Personal Portfolio**: Create a portfolio website showcasing your skills, projects, and contact information using Next.js's static site generation (SSG) features.
 
-2. **Todo App**: Build a simple todo application with CRUD functionality. Use local state or a simple state management library like React's `useState` to manage tasks.
+2. **E-commerce Store**: Build an e-commerce store with product listings, shopping cart functionality, and checkout process. Implement dynamic routing for product pages.
 
-3. **Weather App**: Create a weather app that fetches weather data from an external API and displays current weather conditions based on the user's location or a manually entered city.
+3. **Social Media Dashboard**: Create a social media dashboard that pulls data from various social media APIs and presents them in a unified dashboard. Use `SWR` for data fetching and real-time updates.
 
-4. **E-commerce Store**: Build an e-commerce store with product listings, shopping cart functionality, and checkout process. Implement dynamic routing for product pages.
+4. **Issue Tracker**: Create an issue tracking system where users can report issues, comment, and track the progress of issue resolutions. Implement custom server routes for API endpoints.
 
-5. **Blog Platform**: Develop a blog platform with user authentication and authorization for creating, editing, and deleting blog posts. Use `getServerSideProps` for server-side rendering of blog posts.
+5. **Online Code Editor**: Develop an online code editor that supports multiple programming languages. Users can write, run, and share their code with others.
 
-6. **Social Media Dashboard**: Create a social media dashboard that pulls data from various social media APIs and presents them in a unified dashboard. Use `SWR` for data fetching and real-time updates.
-
-7. **Real-time Chat Application**: Build a real-time chat application using WebSockets for instant messaging between users. Use Next.js for both server-side and client-side rendering.
-
-8. **Issue Tracker**: Create an issue tracking system where users can report issues, comment, and track the progress of issue resolutions. Implement custom server routes for API endpoints.
-
-9. **Online Code Editor**: Develop an online code editor that supports multiple programming languages. Users can write, run, and share their code with others.
-
-10. **Music Streaming Service**: Build a music streaming service where users can browse, search, and play songs. Use a state management library like Redux to manage audio playback state.
+6. **Music Streaming Service**: Build a music streaming service where users can browse, search, and play songs. Use a state management library like Redux to manage audio playback state.
 
 ---
 

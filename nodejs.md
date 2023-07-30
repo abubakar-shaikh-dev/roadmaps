@@ -109,7 +109,7 @@ This roadmap is designed to take you from a Node.js beginner to an advanced leve
 
 **Mini Project Task Challenge**: Write tests for API endpoints in your project.
 
-## Security 🔒
+## Security
 
 - Best practices for securing Node.js applications
 - Preventing common security vulnerabilities
